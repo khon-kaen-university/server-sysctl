@@ -2,7 +2,7 @@
 Kernel tuning for dedicated linux server.
 
 For kernel >= 4.09\
-Place file 60-zercle.conf in /etc/sysctl.d/60-zercle.conf\
+Place file 60-sysctl.conf in /etc/sysctl.d/60-sysctl.conf\
 and run "sysctl --system"
 
 ```shell
